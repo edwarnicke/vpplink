@@ -22,4 +22,4 @@ import (
 	_ "github.com/edwarnicke/wrappergen/cmd"
 )
 
-//go:generate go run github.com/edwarnicke/wrappergen/cmd --binapi-package "go.fd.io/govpp" --output-dir .
+//go:generate go run github.com/edwarnicke/wrappergen/cmd --binapi-package "go.fd.io/govpp"
