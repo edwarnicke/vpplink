@@ -22,4 +22,5 @@ import (
 	_ "github.com/edwarnicke/wrappergen/cmd"
 )
 
+// Run using go generate -tags tools ./...
 //go:generate go run github.com/edwarnicke/wrappergen/cmd --binapi-package "go.fd.io/govpp"
