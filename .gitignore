@@ -16,3 +16,4 @@
 
 .idea
 go.work
+cmd/testdata
